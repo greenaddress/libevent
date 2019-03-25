@@ -341,6 +341,7 @@ dnl Checks for library functions.
 AC_CHECK_FUNCS([ \
   accept4 \
   arc4random \
+  arc4random_addrandom \
   arc4random_buf \
   eventfd \
   epoll_create1 \
